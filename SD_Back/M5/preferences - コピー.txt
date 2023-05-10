@@ -1,0 +1,4 @@
+Wifi_SSID:rs500m-dc4fd8-1
+Wifi_PASS:bc1717d8da240
+
+

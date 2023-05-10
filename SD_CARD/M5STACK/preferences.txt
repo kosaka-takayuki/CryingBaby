@@ -1,0 +1,10 @@
+Wifi_SSID:KosakaLAB
+Wifi_PASS:Sss530421
+Wifi_SSID:SPW_X11_47b7e9
+Wifi_PASS:41050775a6c56
+Wifi_SSID:
+Wifi_PASS:
+Wifi_SSID:
+Wifi_PASS:
+
+

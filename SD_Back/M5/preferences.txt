@@ -1,0 +1,6 @@
+Wifi_SSID:SPWN_N34_3e24d5
+Wifi_PASS:168e0372d1c0b
+Wifi_SSID:rs500m-dc4fd8-1
+Wifi_PASS:bc1717d8da240
+
+

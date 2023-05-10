@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"new": "cpp",
+			"functional": "cpp",
+			"istream": "cpp",
+			"cmath": "cpp",
+			"fstream": "cpp",
+			"array": "cpp",
+			"deque": "cpp",
+			"list": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"vector": "cpp",
+			"initializer_list": "cpp"
+		},
+		"ipynb.pasteImagesAsAttachments.enabled": false,
+		"cmake.configureSettings": {
+		
+		},
+		"workbench.colorTheme": "Default Dark+",
+		"editor.mouseWheelZoom": true
+	}
+}
